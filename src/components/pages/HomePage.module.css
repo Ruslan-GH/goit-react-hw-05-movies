@@ -1,0 +1,26 @@
+.container {
+  margin-left: 10px;
+}
+
+.title {
+  color: black;
+}
+
+.link {
+  border-radius: 4px;
+  margin-bottom: 8px;
+  text-decoration: none;
+  color: black;
+}
+
+.movieTitle {
+  color: black;
+  margin-bottom: 10px;
+}
+
+.movieTitle:hover,
+.link:hover {
+  color: blue;
+  font-weight: 400;
+  list-style: none;
+}
